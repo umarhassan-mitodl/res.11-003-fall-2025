@@ -1,0 +1,25 @@
+leftnav:
+- identifier: c6324124-5055-4426-8bb9-7fa2aec8dbb4
+  name: Starter Guide
+  pageRef: /pages/starter-guide
+  weight: 10
+- identifier: 68851fc8-e081-4a8e-851f-18c9bfa36127
+  name: Foundational Modules
+  pageRef: /pages/foundational-modules
+  weight: 20
+- identifier: d663703d-a97c-4b1c-b0c0-aa330866930b
+  name: Discipline-Specific Modules
+  pageRef: /pages/discipline-specific-modules
+  weight: 30
+- identifier: 5afeeb10-a8fb-4891-8b34-755d339ccd92
+  name: Video Lectures
+  pageRef: /pages/video-lectures
+  weight: 40
+- identifier: 6cd7c192-db45-4059-a05f-32dd687ef940
+  name: Teaching and Learning Resources
+  pageRef: /pages/teaching-and-learning-resources
+  weight: 50
+- identifier: ca3f04cd-a3b3-4a71-a689-1aa08e1f97b0
+  name: FAQs
+  pageRef: /pages/faqs
+  weight: 60

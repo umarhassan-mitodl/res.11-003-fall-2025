@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2025",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Climate"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "2db6f98b-2916-4449-a96a-151e2b5c3997"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c7b1656c-cfb3-4b15-8acf-e45e05a83664",
+    "website": "climate-justice-instructional-toolkit"
+  },
+  "course_title": "Climate Justice Instructional Toolkit",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "The Climate Justice Instructional Toolkit was created by MIT Environmental Solutions Initiative as part of a larger initiative to expand climate justice education at MIT.\n\nThe primary goal of these resources and programming is to provide support to faculty members and instructors across disciplines within introductory undergraduate courses to facilitate the integration of climate justice content and related instructional approaches into their courses.",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.11-003",
+  "learning_resource_types": [
+    "Editable Files"
+  ],
+  "site_uid": "e2218e38-fe69-4e5d-a0b5-f5ccfe2455a8",
+  "site_short_id": "res.11-003-fall-2025",
+  "site_url_path": "courses/res-11-003-climate-justice-instructional-toolkit-fall-2025"
+}
