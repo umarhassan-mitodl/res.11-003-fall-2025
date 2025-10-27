@@ -32,7 +32,7 @@
     "website": "climate-justice-instructional-toolkit"
   },
   "course_title": "Climate Justice Instructional Toolkit",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "The Climate Justice Instructional Toolkit was created by MIT Environmental Solutions Initiative as part of a larger initiative to expand climate justice education at MIT.\n\nThe primary goal of these resources and programming is to provide support to faculty members and instructors across disciplines within introductory undergraduate courses to facilitate the integration of climate justice content and related instructional approaches into their courses.",
   "department_numbers": [
@@ -40,7 +40,6 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.11-003",
-  "hide_download_original": false,
   "learning_resource_types": [
     "Editable Files"
   ],
